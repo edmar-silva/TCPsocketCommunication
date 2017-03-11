@@ -1,0 +1,13 @@
+Informações do teste.
+
+
+As bibloteca utilizadas foram:
+	<iostream> -> saida de dados na tela
+	<boost/asio.hpp> -> comunicação assincrona via TCP/IP
+	<fstream> -> manipulação de arquivos
+	<boost/array.hpp> - manipulação de arrays
+	
+Tempo para desenvolvimento: por volta de 8hrs
+
+O tempo gasto é devido à falta de experiência com o uso da library boost. Sendo maior parte dele despendido no aprendizado e leitura de documentação.
+Pois como havia informado durante a entrevista, maior parte da minha experiência com dsenvolvimento foi utilizando a linguagem de programação C.
